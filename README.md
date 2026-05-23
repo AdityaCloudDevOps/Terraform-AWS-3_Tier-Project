@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Terraform AWS 3-Tier Architecture
 
 ## Project Overview
